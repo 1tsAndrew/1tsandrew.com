@@ -71,6 +71,10 @@
   <style>
 	@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css");
 
+	  #c:hover {
+    color: #00D632
+}
+	  
 #d:hover {
     color: #7289DA
 }
