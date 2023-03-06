@@ -13,7 +13,7 @@
 	<div style="display: contents">%sveltekit.body%</div>
 </center>
 	<script>
-		fetch("https://api.countapi.xyz/hit/penis.today/visits")
+		fetch("https://api.countapi.xyz/hit/penis.today/visits?" + Date.now())
 			.then((_) => _.json())
 			.then((_) => {
 				localStorage.setItem("visits", _.value);
