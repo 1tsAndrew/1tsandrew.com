@@ -21,6 +21,11 @@
 <Header></Header>
 
 <div class="grid">
+	<a href="https://cash.app/$1tsAndrew" target="_blank noreferrer noopener">
+	  <div>
+		<h2 id="c">Cash App<br><i class="fa-solid fa-dollar-sign"></i></h2>
+	  </div>
+	</a>
 	<a href="https://discord.com/users/355091763825868800" target="_blank noreferrer noopener">
 	  <div>
 		<h2 id="d">Discord<br><i class="fa-brands fa-discord"></i></h2>
