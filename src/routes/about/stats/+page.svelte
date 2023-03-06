@@ -39,14 +39,14 @@ let visits
 	<tbody
 		><tr
 			><th scope="row">Main Laptop</th> <td>Everything</td>
-			<td>11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz 2.30 GHz</td>
+			<td>11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz</td>
 			<td>NVIDIA GeForce RTX 3070</td> <td>15258 MiB</td>
 			<td>1 TB SSD</td></tr
 		>
 		<tr
 			><th scope="row">2nd Laptop</th> <td>School<br>Work</td>
-			<td>Integrated Intel Iris XE</td>
-			<td>NVIDIA GeForce RTX 3070</td> <td>22888 MiB</td>
+			<td>12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz</td>
+			<td>Integrated Intel Iris XE</td> <td>22888 MiB</td>
 			<td>512 GB SSD </td></tr
 		>
 	</tbody>
