@@ -45,7 +45,7 @@ let visits
 		>
 		<tr
 			><th scope="row">2nd Laptop</th> <td>School<br>Work</td>
-			<td>12th Gen Intel(R) Core(TM) i5-1235U   1.30 GHz</td>
+			<td>12th Gen Intel(R) Core(TM) i5-1235U @ 1.30 GHz</td>
 			<td>Integrated Intel Iris XE</td> <td>22888 MiB</td>
 			<td>512 GB SSD </td></tr
 		>
