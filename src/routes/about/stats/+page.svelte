@@ -39,7 +39,7 @@ let visits
 	<tbody
 		><tr
 			><th scope="row">Main Laptop</th> <td>Everything</td>
-			<td>11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz</td>
+			<td>11th Gen Intel(R) Core(TM) i7-11800H @ 2.30 GHz</td>
 			<td>NVIDIA GeForce RTX 3070</td> <td>15258 MiB</td>
 			<td>1 TB SSD</td></tr
 		>
